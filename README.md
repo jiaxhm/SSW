@@ -22,3 +22,15 @@ Fig. 4 shows the architecture of SSW. The proposed SSW utilizes the basis filter
  to convolute the test image. Then it selects the smallest deviation between the input
  image and latent maps to construct the final output. The SSW incorporates more side
  local information from the image, so it is easier to obtain high-quality filtering results.
+
+# 📚 Cite Us
+
+✨ Please cite us if this work is helpful to you 
+
+```bibtex
+@ARTICLE{
+  author={Xiaohong Jia, Tao Lei, Yingbo Wang, Xuejun Zhang, Guanghui Yan and Asoke K. Nandi},
+  journal={Neural Computing and Applications}, 
+  title={The Design and Application of Steerable Side Window Framework}, 
+  keywords={Steerable side window, Arbitrary orientation, Smoothing, Edge preserving},
+  doi={}}
