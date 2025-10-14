@@ -18,7 +18,7 @@ ence to the pixel distribution. Meanwhile, the SSW can also be easily embedded
 
 Fig.1 The architecture of SSW.A set of dedicated filters with different orientations handles the input image.The filtered image is adaptively constructed from input image and a set of latent maps.
 
-Fig. 4 shows the architecture of SSW. The proposed SSW utilizes the basis filters
+Fig. 1 shows the architecture of SSW. The proposed SSW utilizes the basis filters
  to convolute the test image. Then it selects the smallest deviation between the input
  image and latent maps to construct the final output. The SSW incorporates more side
  local information from the image, so it is easier to obtain high-quality filtering results.
