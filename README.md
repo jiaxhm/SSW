@@ -14,7 +14,7 @@ ence to the pixel distribution. Meanwhile, the SSW can also be easily embedded
  results show that the proposed SSW technique is both effective and efficient,
  enabling more advantageous applications.
 
-<img width="307" height="207" alt="f589b2b95efd7af578d1eff1398997d4" src="https://github.com/user-attachments/assets/6c569dc5-b9b8-4866-a5d5-33ba1086fe73" />
+<img width="307*2" height="207*2" alt="f589b2b95efd7af578d1eff1398997d4" src="https://github.com/user-attachments/assets/6c569dc5-b9b8-4866-a5d5-33ba1086fe73" />
 
 
 Fig.1 The architecture of SSW.A set of dedicated filters with different orientations handles the input image.The filtered image is adaptively constructed from input image and a set of latent maps.
