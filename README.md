@@ -14,7 +14,7 @@ ence to the pixel distribution. Meanwhile, the SSW can also be easily embedded
  results show that the proposed SSW technique is both effective and efficient,
  enabling more advantageous applications.
 
-<img width="2133" height="1433" alt="Fig5" src="https://github.com/user-attachments/assets/9ee44684-22fc-42ca-a54d-8e51cf8f21bf" />
+<img src="https://github.com//jiaxhm/SSW/Figure/Fig5.png" width="50%" />
 
 
 
