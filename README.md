@@ -40,4 +40,4 @@ Fig. 1 shows the architecture of SSW. The proposed SSW utilizes the basis filter
   article number={80}
   title={The Design and Application of Steerable Side Window Framework}, 
   keywords={Steerable side window, Arbitrary orientation, Smoothing, Edge preserving},
-  doi={{}}
+  doi={https://doi.org/10.1007/s00521-025-11819-w}
