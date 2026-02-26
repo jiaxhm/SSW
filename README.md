@@ -34,7 +34,10 @@ Fig. 1 shows the architecture of SSW. The proposed SSW utilizes the basis filter
 ```bibtex
 @ARTICLE{
   author={Xiaohong Jia, Tao Lei, Yingbo Wang, Xuejun Zhang, Guanghui Yan and Asoke K. Nandi},
-  journal={Neural Computing and Applications}, 
+  journal={Neural Computing and Applications},
+  year={2026}
+  volume={38}
+  article number={80}
   title={The Design and Application of Steerable Side Window Framework}, 
   keywords={Steerable side window, Arbitrary orientation, Smoothing, Edge preserving},
   doi={{}}
